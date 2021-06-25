@@ -24,8 +24,8 @@ export function AppointmentDetails(){
   const members = [
     {
       id: '1',
-      username: 'Juan',
-      avatar_url: 'https://github.com/Ibanez-Juan.png',
+      username: 'Rodrigo',
+      avatar_url: 'https://github.com/rodrigorgtic.png',
       status: 'online'
     },
     {
